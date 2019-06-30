@@ -1,0 +1,9 @@
+name: ffi_hello_world
+version: 0.0.1
+description: >-
+  dart:ffi Hello World.
+author: Shimizu Naoki
+environment:
+  sdk: '>=2.2.0 <3.0.0'
+dev_dependencies:
+  test: ^1.5.3
